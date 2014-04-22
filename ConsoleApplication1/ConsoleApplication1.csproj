@@ -53,6 +53,10 @@
     <None Include="mongodb-win32-x86_64.z05" />
     <None Include="mongodb-win32-x86_64.z06" />
     <None Include="mongodb-win32-x86_64.zip" />
+    <None Include="PTVS_VS_2013.msi" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resharper8.x-6.x Keygen.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
